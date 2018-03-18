@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Bein Sports España</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>La Liga TV 1</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Bein La Liga</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MotoGP</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8</urlsolve>
+<title>Prueba</title>        
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
